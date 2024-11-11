@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340806290786",
+    "project_id": "projectapp-eabae",
+    "storage_bucket": "projectapp-eabae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340806290786:android:64f0969f6871d9380f703b",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJ1h5WupRntKaYdGmivnN4ls9SjxRCyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
